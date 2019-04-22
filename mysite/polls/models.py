@@ -13,6 +13,9 @@ class Entry(models.Model):
         model_container = Post,
     )
 
+    def __str__(self):
+        return self.post.name
+
     headline = models.CharField(max_length=255)
 
     objects = models.DjongoManager()

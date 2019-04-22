@@ -78,9 +78,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'NAME': 'post',
-        'HOST': 'mongodb+srv://testuser:secret@post-rdm59.mongodb.net/test?retryWrites=true',
+        'HOST': 'mongodb+srv://testuser:qlalfqjsgh@post-rdm59.mongodb.net/test?retryWrites=true',
         'USER': 'testuser',
-        'PASSWORD': 'secret'
+        'PASSWORD': 'qlalfqjsgh'
     }
 }
 
