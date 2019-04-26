@@ -6,4 +6,4 @@ successfully linked database(MongoDB)
 
 Server(Django) + Database(MongoDB) + Frontend(react.js)
 
-Image file studying
+Sucess to image file upload using rest_framework
