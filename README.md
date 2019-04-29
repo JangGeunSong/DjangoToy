@@ -7,4 +7,4 @@ successfully linked database(MongoDB)
 Server(Django) + Database(MongoDB) + Frontend(react.js)
 
 Sucess to image file upload using rest_framework
---> I will make the toy web pages
+--> I will make the toy web pages --> add redux to another toy pages
