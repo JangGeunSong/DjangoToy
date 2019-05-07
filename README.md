@@ -11,4 +11,4 @@ Sucess to image file upload using rest_framework
 
 4/30 : other toy project add the alert to react.js and django + redux app
 
-Add some auth
+Add some auth and frontend implementation is done
